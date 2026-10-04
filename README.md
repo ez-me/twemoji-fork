@@ -8,7 +8,7 @@ The Twemoji library offers support for all Unicode-defined emoji which are recom
 
 ## Changes
 
-*  WIP
+* Change the Antartica flag emoji [#11](https://github.com/jdecked/twemoji/pull/11)
 
 
 ## Usage

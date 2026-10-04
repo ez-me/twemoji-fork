@@ -12,6 +12,7 @@ The Twemoji library offers support for all Unicode-defined emoji which are recom
 * Add Quebec (CA-QC) flag [#50](https://github.com/jdecked/twemoji/pull/50)
 * two emoji consistency fixes [#74](https://github.com/jdecked/twemoji/pull/74)
 * Adding subdivision flags, USA [#99](https://github.com/jdecked/twemoji/pull/99)
+* Add Valencia (ES-VC) flag emoji [#107](https://github.com/jdecked/twemoji/pull/107)
 
 
 ## Usage

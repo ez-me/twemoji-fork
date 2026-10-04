@@ -11,6 +11,7 @@ The Twemoji library offers support for all Unicode-defined emoji which are recom
 * Change the Antartica flag emoji [#11](https://github.com/jdecked/twemoji/pull/11)
 * Add Quebec (CA-QC) flag [#50](https://github.com/jdecked/twemoji/pull/50)
 * two emoji consistency fixes [#74](https://github.com/jdecked/twemoji/pull/74)
+* Adding subdivision flags, USA [#99](https://github.com/jdecked/twemoji/pull/99)
 
 
 ## Usage

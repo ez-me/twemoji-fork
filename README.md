@@ -9,6 +9,7 @@ The Twemoji library offers support for all Unicode-defined emoji which are recom
 ## Changes
 
 * Change the Antartica flag emoji [#11](https://github.com/jdecked/twemoji/pull/11)
+* Add Quebec (CA-QC) flag [#50](https://github.com/jdecked/twemoji/pull/50)
 
 
 ## Usage

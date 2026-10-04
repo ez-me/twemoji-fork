@@ -13,6 +13,7 @@ The Twemoji library offers support for all Unicode-defined emoji which are recom
 * two emoji consistency fixes [#74](https://github.com/jdecked/twemoji/pull/74)
 * Adding subdivision flags, USA [#99](https://github.com/jdecked/twemoji/pull/99)
 * Add Valencia (ES-VC) flag emoji [#107](https://github.com/jdecked/twemoji/pull/107)
+* Update Honduras Flag [#112](https://github.com/jdecked/twemoji/pull/112)
 
 
 ## Usage

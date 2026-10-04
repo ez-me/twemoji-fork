@@ -18,6 +18,7 @@ The Twemoji library offers support for all Unicode-defined emoji which are recom
 * Fixed teeth color in 1f62b.svg [#115](https://github.com/jdecked/twemoji/pull/115)
 * Fix right-facing wheelchair emojis [#125](https://github.com/jdecked/twemoji/pull/125)
 * Add Catalonia ES-CT flag emoji [#38](https://github.com/jdecked/twemoji/issues/38)
+* fix: aspect ratio watermelon [#102](https://github.com/jdecked/twemoji/pull/102)
 
 
 ## Usage

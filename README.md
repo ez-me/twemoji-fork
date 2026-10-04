@@ -19,6 +19,7 @@ The Twemoji library offers support for all Unicode-defined emoji which are recom
 * Fix right-facing wheelchair emojis [#125](https://github.com/jdecked/twemoji/pull/125)
 * Add Catalonia ES-CT flag emoji [#38](https://github.com/jdecked/twemoji/issues/38)
 * fix: aspect ratio watermelon [#102](https://github.com/jdecked/twemoji/pull/102)
+* Add Missing Flag emoji [Mine!]
 
 
 ## Usage

@@ -20,6 +20,7 @@ The Twemoji library offers support for all Unicode-defined emoji which are recom
 * Add Catalonia ES-CT flag emoji [#38](https://github.com/jdecked/twemoji/issues/38)
 * fix: aspect ratio watermelon [#102](https://github.com/jdecked/twemoji/pull/102)
 * Add Missing Flag emoji [Mine!]
+* feat: add reverse hand splayed emojis [#120](https://github.com/jdecked/twemoji/pull/120)
 
 
 ## Usage

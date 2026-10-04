@@ -15,6 +15,7 @@ The Twemoji library offers support for all Unicode-defined emoji which are recom
 * Add Valencia (ES-VC) flag emoji [#107](https://github.com/jdecked/twemoji/pull/107)
 * Update Honduras Flag [#112](https://github.com/jdecked/twemoji/pull/112)
 * Update country flag images: Martinique (PNG and SVG files) [#114](https://github.com/jdecked/twemoji/pull/114)
+* Fixed teeth color in 1f62b.svg [#115](https://github.com/jdecked/twemoji/pull/115)
 
 
 ## Usage

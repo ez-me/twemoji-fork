@@ -14,6 +14,7 @@ The Twemoji library offers support for all Unicode-defined emoji which are recom
 * Adding subdivision flags, USA [#99](https://github.com/jdecked/twemoji/pull/99)
 * Add Valencia (ES-VC) flag emoji [#107](https://github.com/jdecked/twemoji/pull/107)
 * Update Honduras Flag [#112](https://github.com/jdecked/twemoji/pull/112)
+* Update country flag images: Martinique (PNG and SVG files) [#114](https://github.com/jdecked/twemoji/pull/114)
 
 
 ## Usage
